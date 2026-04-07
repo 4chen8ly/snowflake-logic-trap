@@ -1,0 +1,60 @@
+{"transaction_id": 1, "model": "GPT-4o", "confidence": 0.94, "correct": 0}
+{"transaction_id": 2, "model": "GPT-4o", "confidence": 0.889, "correct": 0}
+{"transaction_id": 3, "model": "GPT-4o", "confidence": 0.953, "correct": 1}
+{"transaction_id": 4, "model": "GPT-4o", "confidence": 0.975, "correct": 0}
+{"transaction_id": 5, "model": "GPT-4o", "confidence": 0.909, "correct": 0}
+{"transaction_id": 6, "model": "GPT-4o", "confidence": 0.881, "correct": 1}
+{"transaction_id": 7, "model": "GPT-4o", "confidence": 0.854, "correct": 0}
+{"transaction_id": 8, "model": "GPT-4o", "confidence": 0.941, "correct": 1}
+{"transaction_id": 9, "model": "GPT-4o", "confidence": 0.881, "correct": 1}
+{"transaction_id": 10, "model": "GPT-4o", "confidence": 0.963, "correct": 0}
+{"transaction_id": 11, "model": "GPT-4o", "confidence": 0.963, "correct": 1}
+{"transaction_id": 12, "model": "GPT-4o", "confidence": 0.898, "correct": 0}
+{"transaction_id": 13, "model": "GPT-4o", "confidence": 0.984, "correct": 1}
+{"transaction_id": 14, "model": "GPT-4o", "confidence": 0.863, "correct": 0}
+{"transaction_id": 15, "model": "GPT-4o", "confidence": 0.969, "correct": 1}
+{"transaction_id": 16, "model": "GPT-4o", "confidence": 0.963, "correct": 1}
+{"transaction_id": 17, "model": "GPT-4o", "confidence": 0.925, "correct": 1}
+{"transaction_id": 18, "model": "GPT-4o", "confidence": 0.903, "correct": 1}
+{"transaction_id": 19, "model": "GPT-4o", "confidence": 0.966, "correct": 1}
+{"transaction_id": 20, "model": "GPT-4o", "confidence": 0.971, "correct": 1}
+{"transaction_id": 21, "model": "Llama 3.1", "confidence": 0.949, "correct": 0}
+{"transaction_id": 22, "model": "Llama 3.1", "confidence": 0.882, "correct": 1}
+{"transaction_id": 23, "model": "Llama 3.1", "confidence": 0.861, "correct": 0}
+{"transaction_id": 24, "model": "Llama 3.1", "confidence": 0.864, "correct": 1}
+{"transaction_id": 25, "model": "Llama 3.1", "confidence": 0.939, "correct": 1}
+{"transaction_id": 26, "model": "Llama 3.1", "confidence": 0.902, "correct": 0}
+{"transaction_id": 27, "model": "Llama 3.1", "confidence": 0.887, "correct": 1}
+{"transaction_id": 28, "model": "Llama 3.1", "confidence": 0.941, "correct": 1}
+{"transaction_id": 29, "model": "Llama 3.1", "confidence": 0.874, "correct": 1}
+{"transaction_id": 30, "model": "Llama 3.1", "confidence": 0.873, "correct": 1}
+{"transaction_id": 31, "model": "Llama 3.1", "confidence": 0.989, "correct": 1}
+{"transaction_id": 32, "model": "Llama 3.1", "confidence": 0.928, "correct": 1}
+{"transaction_id": 33, "model": "Llama 3.1", "confidence": 0.968, "correct": 1}
+{"transaction_id": 34, "model": "Llama 3.1", "confidence": 0.882, "correct": 0}
+{"transaction_id": 35, "model": "Llama 3.1", "confidence": 0.894, "correct": 1}
+{"transaction_id": 36, "model": "Llama 3.1", "confidence": 0.88, "correct": 1}
+{"transaction_id": 37, "model": "Llama 3.1", "confidence": 0.973, "correct": 1}
+{"transaction_id": 38, "model": "Llama 3.1", "confidence": 0.942, "correct": 1}
+{"transaction_id": 39, "model": "Llama 3.1", "confidence": 0.978, "correct": 1}
+{"transaction_id": 40, "model": "Llama 3.1", "confidence": 0.887, "correct": 0}
+{"transaction_id": 41, "model": "Mistral Large", "confidence": 0.929, "correct": 1}
+{"transaction_id": 42, "model": "Mistral Large", "confidence": 0.932, "correct": 1}
+{"transaction_id": 43, "model": "Mistral Large", "confidence": 0.906, "correct": 0}
+{"transaction_id": 44, "model": "Mistral Large", "confidence": 0.99, "correct": 1}
+{"transaction_id": 45, "model": "Mistral Large", "confidence": 0.863, "correct": 0}
+{"transaction_id": 46, "model": "Mistral Large", "confidence": 0.865, "correct": 1}
+{"transaction_id": 47, "model": "Mistral Large", "confidence": 0.961, "correct": 1}
+{"transaction_id": 48, "model": "Mistral Large", "confidence": 0.859, "correct": 1}
+{"transaction_id": 49, "model": "Mistral Large", "confidence": 0.989, "correct": 1}
+{"transaction_id": 50, "model": "Mistral Large", "confidence": 0.986, "correct": 1}
+{"transaction_id": 51, "model": "Mistral Large", "confidence": 0.852, "correct": 1}
+{"transaction_id": 52, "model": "Mistral Large", "confidence": 0.945, "correct": 1}
+{"transaction_id": 53, "model": "Mistral Large", "confidence": 0.887, "correct": 1}
+{"transaction_id": 54, "model": "Mistral Large", "confidence": 0.866, "correct": 1}
+{"transaction_id": 55, "model": "Mistral Large", "confidence": 0.914, "correct": 1}
+{"transaction_id": 56, "model": "Mistral Large", "confidence": 0.973, "correct": 1}
+{"transaction_id": 57, "model": "Mistral Large", "confidence": 0.92, "correct": 0}
+{"transaction_id": 58, "model": "Mistral Large", "confidence": 0.978, "correct": 1}
+{"transaction_id": 59, "model": "Mistral Large", "confidence": 0.892, "correct": 1}
+{"transaction_id": 60, "model": "Mistral Large", "confidence": 0.935, "correct": 0}
